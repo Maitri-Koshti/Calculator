@@ -1,0 +1,43 @@
+body{
+    background-color: azure;
+}
+#clear{  
+    width: 265px;  
+    border-radius: 50px;  
+    padding: 10px;  
+    background-color: rgb(207, 28, 73);  
+    margin-top: 10px;
+    font-family: 'Ubuntu', sans-serif;
+}  
+.formstyle  
+{  
+width: 280px;  
+height: 490px;  
+margin: 70px 600px;       
+background-color: #899DAE;
+border-radius: 10px;  
+padding: 20px;  
+box-shadow:  10px 8px 10px #888888;
+}  
+input{  
+    text-align: center;
+    width: 50px;     
+    height: 50px;                                           
+    background-color: #2f546e;  
+    color: white;  
+    border-radius: 50px;  
+    margin: 8px;  
+    font-size: 20px;  
+    box-shadow: 4px 8px 10px #888888;
+}  
+#calc{  
+    width: 230px;  
+    border-radius: 3px;  
+    padding: 20px;  
+    margin: auto;  
+    background-color: #2f546e;
+}  
+.operator{
+    background-color: #D2DCE4;
+    color: #2f546e;
+}
